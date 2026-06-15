@@ -1,4 +1,4 @@
-# SecuServes KMS Demo
+# KMS Server Demo
 
 A **reference Key Management Server (KMS)** implemented as a single Python script using the standard library plus [`cryptography`].
 
@@ -27,21 +27,9 @@ This repository is intentionally presented as a **learning / demo implementation
 
 ```text
 kms_server_demo.py
-kms_server_demo_v0_3_0.py
 README.md
 LICENSE
 requirements.txt
-.gitignore
-SECURITY.md
-CONTRIBUTING.md
-CODE_OF_CONDUCT.md
-CHANGELOG.md
-REVIEW_NOTES.md
-GITHUB_DESCRIPTION.txt
-GITHUB_TOPICS.txt
-PATCH_SUMMARY_v0.3.0.md
-v0.3.0_RELEASE_CHECKLIST.md
-VALIDATION_v0.3.0.md
 ```
 
 ## Requirements
