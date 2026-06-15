@@ -2,8 +2,13 @@
 
 A **reference Key Management Server (KMS)** implemented as a single Python script using the standard library plus [`cryptography`].
 
-> **Status:** demo / reference implementation  
-> **Version for this GitHub update:** 0.3.0
+> **Status:** demo / reference implementation
+> 
+> ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+> ⚠️ This is a reference/demo implementation. Not production hardened.
+> ⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️>
+> 
+> **Version for this GitHub update:** 0.1.0
 
 ## What it does
 
